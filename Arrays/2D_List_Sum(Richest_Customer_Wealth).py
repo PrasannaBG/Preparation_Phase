@@ -1,4 +1,9 @@
+# 1672. Richest Customer Wealth 
+# Input: accounts = [[1,2,3],[3,2,1]]
+# Output: 6
+
 def maximumWealth(self, accounts):
+        
         # Count = []
         # for i in accounts:
         #    Count.append(sum(i))

@@ -1,3 +1,7 @@
+# 1512. Number of Good Pairs
+# Input: nums = [1,2,3,1,1,3]
+# Output: 4
+
 def mostWordsFound(self, sentences):
         count = []
         for i in sentences:
